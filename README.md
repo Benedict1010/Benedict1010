@@ -1,5 +1,3 @@
-i already have a readme and a repo with my name i shall provide its content and i want it to look like the screenshot i provided and also with the snake game at the end .  ### 👋 Hi, I'm Benedict Joseph
-
 🚀 **Passionate Software Developer | B.Tech CSE Student**
 💡 Passionate about building innovative solutions, exploring emerging tech, and solving real-world problems with code.
 
