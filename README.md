@@ -31,8 +31,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenedictJoseph&show_icons=true&theme=radical" alt="Benedict's GitHub stats">
-  <br>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenedictJoseph&theme=radical" alt="GitHub Streak">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictJoseph&layout=compact&theme=radical" alt="Top Languages">
